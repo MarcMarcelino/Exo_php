@@ -14,5 +14,5 @@ function schoollevel(int $age){
         return "Hors du système scolaire";
     }
 }
-echo schoollevel(20); // Affiche 
+echo schoollevel(20); 
 ?>
